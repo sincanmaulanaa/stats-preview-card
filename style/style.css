@@ -248,5 +248,9 @@ h2 {
 	.container h1 {
 		font-size: 25px;
 	}
+	
+	.main {
+		padding: 40px;
+	}
 }
 
